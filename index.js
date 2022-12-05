@@ -1,1 +1,1 @@
-import { createInterface } from "n
+import { createInterface } from "node:readl
