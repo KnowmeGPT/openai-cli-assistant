@@ -1,1 +1,1 @@
-import { createInterface } from "node:readl
+import { createInterface } from "node:readline/promises"
