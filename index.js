@@ -1,2 +1,2 @@
 import { createInterface } from "node:readline/promises";
-import { stdin as input, stdout as output, env } 
+import { stdin as input, stdout as output, env } from 
