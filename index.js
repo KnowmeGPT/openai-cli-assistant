@@ -3,4 +3,5 @@ import { stdin as input, stdout as output, env } from "node:process";
 import { Configuration, OpenAIApi } from "openai";
 
 const configuration = new Configuration({ apiKey: env.OPENAI_API_KEY });
-const openai = new OpenAIApi(configurati
+const openai = new OpenAIApi(configuration);
+co
