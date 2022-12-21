@@ -6,3 +6,4 @@ const configuration = new Configuration({ apiKey: env.OPENAI_API_KEY });
 const openai = new OpenAIApi(configuration);
 const readline = createInterface({ input, output });
 
+const 
