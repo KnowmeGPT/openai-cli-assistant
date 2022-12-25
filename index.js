@@ -7,4 +7,4 @@ const openai = new OpenAIApi(configuration);
 const readline = createInterface({ input, output });
 
 const chatbotType = await readline.question(
-  "What type of chatbot would you like to
+  "What type of chatbot would you like to create
