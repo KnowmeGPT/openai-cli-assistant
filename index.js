@@ -10,4 +10,4 @@ const chatbotType = await readline.question(
   "What type of chatbot would you like to create? "
 );
 const messages = [{ role: "system", content: chatbotType }];
-let userInput = await readline.question("Say
+let userInput = await readline.question("Say hello t
