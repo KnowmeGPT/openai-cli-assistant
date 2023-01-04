@@ -12,4 +12,5 @@ const chatbotType = await readline.question(
 const messages = [{ role: "system", content: chatbotType }];
 let userInput = await readline.question("Say hello to your new assistant.\n\n");
 
-while (userInput !== ".exi
+while (userInput !== ".exit") {
+  m
