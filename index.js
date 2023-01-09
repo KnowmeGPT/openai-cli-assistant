@@ -14,4 +14,5 @@ let userInput = await readline.question("Say hello to your new assistant.\n\n");
 
 while (userInput !== ".exit") {
   messages.push({ role: "user", content: userInput });
-  try
+  try {
+    c
