@@ -16,3 +16,4 @@ while (userInput !== ".exit") {
   messages.push({ role: "user", content: userInput });
   try {
     const response = await openai.createChatCompletion({
+     
