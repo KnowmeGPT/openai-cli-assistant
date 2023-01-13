@@ -17,4 +17,5 @@ while (userInput !== ".exit") {
   try {
     const response = await openai.createChatCompletion({
       messages,
-      model: "gpt-3.5-t
+      model: "gpt-3.5-turbo",
+  
