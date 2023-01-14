@@ -20,3 +20,4 @@ while (userInput !== ".exit") {
       model: "gpt-3.5-turbo",
     });
 
+    cons
