@@ -20,4 +20,5 @@ while (userInput !== ".exit") {
       model: "gpt-3.5-turbo",
     });
 
-    const botMessage = response.data.choices[0].messa
+    const botMessage = response.data.choices[0].message;
+   
