@@ -22,4 +22,5 @@ while (userInput !== ".exit") {
 
     const botMessage = response.data.choices[0].message;
     if (botMessage) {
-      messages.push(botMessag
+      messages.push(botMessage);
+      
