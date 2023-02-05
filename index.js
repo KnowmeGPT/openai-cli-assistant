@@ -24,4 +24,4 @@ while (userInput !== ".exit") {
     if (botMessage) {
       messages.push(botMessage);
       userInput = await readline.question("\n" + botMessage.content + "\n\n");
-    
+    } else 
