@@ -23,4 +23,5 @@ while (userInput !== ".exit") {
     const botMessage = response.data.choices[0].message;
     if (botMessage) {
       messages.push(botMessage);
-      userInput = await readline.question("\n" + botMessage.content + "\n\n"
+      userInput = await readline.question("\n" + botMessage.content + "\n\n");
+  
