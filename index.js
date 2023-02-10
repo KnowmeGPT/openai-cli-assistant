@@ -25,4 +25,4 @@ while (userInput !== ".exit") {
       messages.push(botMessage);
       userInput = await readline.question("\n" + botMessage.content + "\n\n");
     } else {
-      userInput = await readline.question("\nNo response, try a
+      userInput = await readline.question("\nNo response, try asking again\
