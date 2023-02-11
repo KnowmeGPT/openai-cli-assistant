@@ -27,4 +27,4 @@ while (userInput !== ".exit") {
     } else {
       userInput = await readline.question("\nNo response, try asking again\n");
     }
- 
+  } cat
