@@ -28,4 +28,5 @@ while (userInput !== ".exit") {
       userInput = await readline.question("\nNo response, try asking again\n");
     }
   } catch (error) {
-    console.log(error.message
+    console.log(error.message);
+    
