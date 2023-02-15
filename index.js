@@ -29,4 +29,4 @@ while (userInput !== ".exit") {
     }
   } catch (error) {
     console.log(error.message);
-    userIn
+    userInput = aw
