@@ -29,4 +29,5 @@ while (userInput !== ".exit") {
     }
   } catch (error) {
     console.log(error.message);
-    userInput = await readline.q
+    userInput = await readline.question(
+ 
