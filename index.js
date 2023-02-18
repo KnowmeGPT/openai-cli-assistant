@@ -30,4 +30,4 @@ while (userInput !== ".exit") {
   } catch (error) {
     console.log(error.message);
     userInput = await readline.question(
-      "\nSomething wen
+      "\nSomething went w
