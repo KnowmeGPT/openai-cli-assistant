@@ -30,4 +30,5 @@ while (userInput !== ".exit") {
   } catch (error) {
     console.log(error.message);
     userInput = await readline.question(
-      "\nSomething went wrong, try asking again\
+      "\nSomething went wrong, try asking again\n"
+    );
