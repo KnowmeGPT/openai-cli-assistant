@@ -32,3 +32,4 @@ while (userInput !== ".exit") {
     userInput = await readline.question(
       "\nSomething went wrong, try asking again\n"
     );
+  }
