@@ -35,4 +35,4 @@ while (userInput !== ".exit") {
   }
 }
 
-readline
+readline.close(
