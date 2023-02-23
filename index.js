@@ -33,3 +33,6 @@ while (userInput !== ".exit") {
       "\nSomething went wrong, try asking again\n"
     );
   }
+}
+
+rea
