@@ -1,0 +1,8 @@
+
+{
+  "name": "@philnash/asst",
+  "version": "0.0.1",
+  "description": "A command line interface for OpenAI's ChatGPT written in JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
