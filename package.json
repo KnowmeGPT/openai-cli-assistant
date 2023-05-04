@@ -6,3 +6,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "start": "nodenv ."
+  },
+  "keywords": [
+    "openai",
+    "chat-gpt"
+  ],
