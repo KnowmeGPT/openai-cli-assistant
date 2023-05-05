@@ -1,1 +1,1 @@
-# OpenAI CLI A
+# OpenAI CLI Assis
