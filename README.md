@@ -1,3 +1,3 @@
 # OpenAI CLI Assistant
 
-This
+This is a sm
