@@ -1,3 +1,3 @@
 # OpenAI CLI Assistant
 
-This is a small, revam
+This is a small, revamped project 
