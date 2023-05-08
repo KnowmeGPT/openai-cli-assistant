@@ -1,3 +1,3 @@
 # OpenAI CLI Assistant
 
-This is a small, revamped project to furt
+This is a small, revamped project to further expl
