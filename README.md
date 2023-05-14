@@ -4,3 +4,4 @@ This is a small, revamped project to further explore the OpenAI API by creating 
 
 * [Essentials](#things-youll-need)
 * [Usage](#usage)
+* [Co
