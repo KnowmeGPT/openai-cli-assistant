@@ -6,3 +6,4 @@ This is a small, revamped project to further explore the OpenAI API by creating 
 * [Usage](#usage)
 * [Contributors](#contributing)
   * [Code of Conduct](#code-of-conduct)
+* [L
