@@ -8,4 +8,5 @@ This is a small, revamped project to further explore the OpenAI API by creating 
   * [Code of Conduct](#code-of-conduct)
 * [License](#license)
 
-## Essenti
+## Essentials
+
