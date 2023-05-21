@@ -10,4 +10,4 @@ This is a small, revamped project to further explore the OpenAI API by creating 
 
 ## Essentials
 
-To interact with th
+To interact with the Ope
