@@ -10,4 +10,4 @@ This is a small, revamped project to further explore the OpenAI API by creating 
 
 ## Essentials
 
-To interact with the OpenAI API you will need an [OpenAI platfor
+To interact with the OpenAI API you will need an [OpenAI platform accou
