@@ -14,4 +14,4 @@ To interact with the OpenAI API you will need an [OpenAI platform account](https
 
 ## Usage
 
-C
+Clone the re
