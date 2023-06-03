@@ -12,4 +12,6 @@ This is a small, revamped project to further explore the OpenAI API by creating 
 
 To interact with the OpenAI API you will need an [OpenAI platform account](https://platform.openai.com/overview). Once you've signed up, [create an API key](https://platform.openai.com/account/api-keys) from your account dashboard.
 
-## Usa
+## Usage
+
+C
