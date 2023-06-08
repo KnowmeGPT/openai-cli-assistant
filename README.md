@@ -14,4 +14,4 @@ To interact with the OpenAI API you will need an [OpenAI platform account](https
 
 ## Usage
 
-Clone the repo and navigate to the new director
+Clone the repo and navigate to the new directory:
