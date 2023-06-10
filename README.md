@@ -17,4 +17,4 @@ To interact with the OpenAI API you will need an [OpenAI platform account](https
 Clone the repo and navigate to the new directory:
 
 ``
-git clone https://github.com/KnowmeGPT/o
+git clone https://github.com/KnowmeGPT/openai-cli
