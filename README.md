@@ -18,4 +18,6 @@ Clone the repo and navigate to the new directory:
 
 ``
 git clone https://github.com/KnowmeGPT/openai-cli-assistant.git
-cd openai-cli-assista
+cd openai-cli-assistant
+``
+T
