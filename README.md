@@ -23,4 +23,4 @@ cd openai-cli-assistant
 Then install the dependencies:
 
 ``
-npm
+npm instal
