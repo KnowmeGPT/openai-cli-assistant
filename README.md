@@ -21,3 +21,6 @@ git clone https://github.com/KnowmeGPT/openai-cli-assistant.git
 cd openai-cli-assistant
 ``
 Then install the dependencies:
+
+``
+npm
