@@ -25,4 +25,4 @@ Then install the dependencies:
 ``
 npm install
 ``
-W
+With the 
