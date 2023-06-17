@@ -25,4 +25,4 @@ Then install the dependencies:
 ``
 npm install
 ``
-With the followin
+With the following command,
