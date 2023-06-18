@@ -25,4 +25,4 @@ Then install the dependencies:
 ``
 npm install
 ``
-With the following command, you can initi
+With the following command, you can initialize the a
