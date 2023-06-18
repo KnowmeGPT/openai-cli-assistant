@@ -25,4 +25,4 @@ Then install the dependencies:
 ``
 npm install
 ``
-With the following command, you can initialize the a
+With the following command, you can initialize the assistant:
