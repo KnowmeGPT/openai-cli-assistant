@@ -28,4 +28,4 @@ npm install
 With the following command, you can initialize the assistant: 
 
 ``
-OPENAI_API_KE
+OPENAI_API_KEY=YOUR_
