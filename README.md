@@ -30,4 +30,4 @@ With the following command, you can initialize the assistant:
 ``
 OPENAI_API_KEY=YOUR_OPENAI_API_KEY node index.js
 ``
-Alternatively, you can dup
+Alternatively, you can duplicat
