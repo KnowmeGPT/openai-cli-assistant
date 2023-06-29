@@ -33,4 +33,6 @@ OPENAI_API_KEY=YOUR_OPENAI_API_KEY node index.js
 Alternatively, you can duplicate the `.env.example` to `.env` and enter your API key. Then execute the following command to start the assistant:
 
 ``
-npm star
+npm start
+``
+Y
