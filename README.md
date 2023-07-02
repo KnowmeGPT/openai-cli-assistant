@@ -35,4 +35,4 @@ Alternatively, you can duplicate the `.env.example` to `.env` and enter your API
 ``
 npm start
 ``
-You now can converse with your assistant. Start 
+You now can converse with your assistant. Start by p
