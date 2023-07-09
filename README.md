@@ -35,4 +35,6 @@ Alternatively, you can duplicate the `.env.example` to `.env` and enter your API
 ``
 npm start
 ``
-You now can converse with your assistant. Start by providing a system instruction for the preferred behavior. Follow through by chatting with the assistant on the command line
+You now can converse with your assistant. Start by providing a system instruction for the preferred behavior. Follow through by chatting with the assistant on the command line.
+
+## C
