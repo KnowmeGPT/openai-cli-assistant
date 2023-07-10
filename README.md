@@ -39,4 +39,4 @@ You now can converse with your assistant. Start by providing a system instructio
 
 ## Contributors
 
-1. Fork the 
+1. Fork the repo
