@@ -39,4 +39,5 @@ You now can converse with your assistant. Start by providing a system instructio
 
 ## Contributors
 
-1. Fork the repository ( https://github.com/KnowmeGPT/openai-cli-assistant/fork
+1. Fork the repository ( https://github.com/KnowmeGPT/openai-cli-assistant/fork )
+2. C
