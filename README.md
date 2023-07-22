@@ -43,4 +43,4 @@ You now can converse with your assistant. Start by providing a system instructio
 2. Create a feature branch (git checkout -b my-new-feature)
 3. Commit the changes (git commit -am 'Include some feature')
 4. Push to your branch (git push origin my-new-feature)
-5. Submi
+5. Submit a n
