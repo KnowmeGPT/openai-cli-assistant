@@ -45,4 +45,6 @@ You now can converse with your assistant. Start by providing a system instructio
 4. Push to your branch (git push origin my-new-feature)
 5. Submit a new Pull Request
 
-### Code of C
+### Code of Conduct
+
+Everyo
