@@ -47,4 +47,4 @@ You now can converse with your assistant. Start by providing a system instructio
 
 ### Code of Conduct
 
-Everyone engaged in the OpenAI CLI Assistant project’s codebases, issue trac
+Everyone engaged in the OpenAI CLI Assistant project’s codebases, issue trackers, ch
