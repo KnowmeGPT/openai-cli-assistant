@@ -47,4 +47,6 @@ You now can converse with your assistant. Start by providing a system instructio
 
 ### Code of Conduct
 
-Everyone engaged in the OpenAI CLI Assistant project’s codebases, issue trackers, chat rooms and mailing lists is compelled to follow the [code of conduct](https://github.com/KnowmeGPT/openai-cli-assistant/blob/master/CODE_OF_CONDUCT.md
+Everyone engaged in the OpenAI CLI Assistant project’s codebases, issue trackers, chat rooms and mailing lists is compelled to follow the [code of conduct](https://github.com/KnowmeGPT/openai-cli-assistant/blob/master/CODE_OF_CONDUCT.md).
+
+## Li
