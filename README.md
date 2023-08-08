@@ -51,4 +51,4 @@ Everyone engaged in the OpenAI CLI Assistant project’s codebases, issue tracke
 
 ## License
 
-The code
+The codebase 
