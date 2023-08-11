@@ -51,4 +51,4 @@ Everyone engaged in the OpenAI CLI Assistant project’s codebases, issue tracke
 
 ## License
 
-The codebase is available as open source under the norms of the [MIT
+The codebase is available as open source under the norms of the [MIT License]
